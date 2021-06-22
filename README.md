@@ -1,16 +1,16 @@
 ### Hi,Mingalarpar, I am a typical Burmese who love reading and learning! 👋
 
-<a href="https://www.linkedin.com/in/wuthmonehninhlaing/">
+<a href="https://www.linkedin.com/in/wuthmonehninhlaing/" target="_blank">
   <img align="left" alt="My Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/alexsnow348">
+<a href="https://github.com/alexsnow348" target="_blank">
   <img align="left" alt="Alex Snow's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br/>
 <br/>
 
-- 🔭 Life-long learner and founder at [**Alex Snow School**](https://www.alexsnowschool.org/){:target="\_blank"} which is a youths' run school for empowering the next generation towards Myanmar economic and technological advancement. 
+- 🔭 Life-long learner and founder at [**Alex Snow School**](https://www.alexsnowschool.org/) which is a youths' run school for empowering the next generation towards Myanmar economic and technological advancement. 
 - 🌱 I’m currently on my way to becoming a data-driven economist. .
 - 📫 How to reach me: alexsnow348@gmail.com
 - 😄 Pronouns: she/they
