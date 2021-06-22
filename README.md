@@ -3,10 +3,6 @@
 <a href="https://www.linkedin.com/in/wuthmonehninhlaing/" target="_blank">
   <img align="left" alt="My Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/alexsnow348" target="_blank">
-  <img align="left" alt="Alex Snow's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
 <br/>
 <br/>
 
