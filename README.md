@@ -1,4 +1,4 @@
-### Hi 👋, warmly welcome from a typical Burmese 🇲🇲🇲🇲 who love reading and learning! 
+### Hi 👋 Warmly welcome from a typical Burmese 🇲🇲🇲🇲 who love reading and learning! 
 
 <a href="https://www.linkedin.com/in/wuthmonehninhlaing/" target="_blank">
   <img align="left" alt="My Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
