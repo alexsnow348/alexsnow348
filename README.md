@@ -6,11 +6,11 @@
 <br/>
 <br/>
 
-- 🔭 Life-long learner and founder of [**Alex Snow School**](https://www.alexsnowschool.org/) which is a youths' run school for empowering the next generation towards Myanmar economic and technological advancement. 
-- 🌱 I’m currently on my way to becoming a data-driven economist. .
+- 🔭 **Life-long learner** and founder of [**Alex Snow School**](https://www.alexsnowschool.org/) which is a youths' run school for empowering the next generation towards **_Myanmar economic and technological advancement_**. 
+- 🌱 I’m currently on my way to becoming a **_data-driven economist_**. .
 - 📫 How to reach me: alexsnow348@gmail.com
 - 😄 Pronouns: she/they
-- ⚡ Fun fact: looking for the best way to relax and lazy around like panda
+- ⚡ Fun fact: looking for the best way to **_relax and lazy around like a panda_**
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
 [![GitHub alexsnow348](https://img.shields.io/github/followers/alexsnow348?label=follow&style=social)](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)
