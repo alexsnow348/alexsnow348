@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-- 🔭 Life-long learner and founder at [**Alex Snow School**](https://www.alexsnowschool.org/) which is a youths' run school for empowering the next generation towards Myanmar economic and technological advancement. 
+- 🔭 Life-long learner and founder of [**Alex Snow School**](https://www.alexsnowschool.org/) which is a youths' run school for empowering the next generation towards Myanmar economic and technological advancement. 
 - 🌱 I’m currently on my way to becoming a data-driven economist. .
 - 📫 How to reach me: alexsnow348@gmail.com
 - 😄 Pronouns: she/they
