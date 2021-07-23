@@ -7,7 +7,7 @@
 <br/>
 
 - 🔭 **Life-long learner** and deeply involved in [**Alex Snow School**](https://www.alexsnowschool.org/) which is a youths' run school for empowering the next generation towards **Myanmar economic and technological advancement**. 
-- 🌱 I’m currently exploring the fields of Economics, Finance, and Data Science to becoming a **_data-driven economist_**. 
+- 🌱 I’m currently exploring the fields of Economics, Finance, and Data Science for becoming a **_data-driven economist_**. 
 - 📫 How to reach me: alexsnow348@gmail.com
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: looking for the best way to **_relax and be lazy around like a panda_**
