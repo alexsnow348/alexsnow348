@@ -15,10 +15,4 @@
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
 [![GitHub alexsnow348](https://img.shields.io/github/followers/alexsnow348?label=follow&style=social)](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)
 ![Profile Viewer Counter](https://komarev.com/ghpvc/?username=alexsnow348&color=brightgreen)
-<a href="https://github.com/alexsnow348" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsnow348&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/alexsnow348" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsnow348&show_icons=true&theme=light&line_height=27" alt="Alex Snow's github stats"/>
-</a>
 
