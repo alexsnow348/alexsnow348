@@ -18,11 +18,9 @@ def replace_writing(content, marker, chunk, inline=False):
 
 
 def fetch_writing():
-    # entries = feedparser.parse('https://alexsnow348.github.io/atom')['entries']
     entries = feedparser.parse('https://alexsnow348.github.io/atom')['entries']
     top5_entries = entries[:5]
     entry_count = len(entries)
-    print(top5_entries[1]['title'], top5_entries[1]['link'], top5_entries[1]['updated'] )
     return [
                {
                    'title': entry['title'],
@@ -37,7 +35,6 @@ def fetch_writing():
 
 if __name__ == '__main__':
     readme_path = root / 'README.md'
-
     readme = readme_path.open().read()
     entries, entry_count = fetch_writing()
     entries_md = '\n'.join(
