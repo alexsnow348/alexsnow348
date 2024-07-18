@@ -25,8 +25,8 @@ def fetch_writing():
                {
                    'title': entry['title'],
                    'url': entry['link'].split('#')[0],
-                   # change date to human readable format string to datetime object
-                #    2024-04-04T00:00:00+00:00
+                    # change date to human readable format string to datetime object
+                    # 2024-04-04T00:00:00+00:00
                     'published': datetime.strptime(entry['updated'], "%Y-%m-%dT%H:%M:%S%z").strftime('%B %d, %Y')
                }
                for entry in top5_entries
