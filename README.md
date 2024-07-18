@@ -15,9 +15,6 @@
 
 View the archives (<!-- writing_count starts -->83<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
-- 📫 How to reach me: alexsnow348@gmail.com
-- 😄 Pronouns: she/they
-- ⚡ Fun fact: looking for the best way to **_relax and be lazy around like a panda_**
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
 [![GitHub alexsnow348](https://img.shields.io/github/followers/alexsnow348?label=follow&style=social)](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)
