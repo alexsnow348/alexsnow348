@@ -21,3 +21,4 @@ View the archives (<!-- writing_count starts -->83<!-- writing_count ends --> po
 [![GitHub alexsnow348](https://img.shields.io/github/followers/alexsnow348?label=follow&style=social)](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)
 ![Profile Viewer Counter](https://komarev.com/ghpvc/?username=alexsnow348&color=brightgreen)
 
+<a href="https://github.com/alexsnow348/alexsnow348/actions"><img src="https://github.com/alexsnow348/alexsnow348/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
