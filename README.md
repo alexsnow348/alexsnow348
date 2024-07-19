@@ -22,4 +22,4 @@ View the archives (<!-- writing_count starts -->83<!-- writing_count ends --> po
 ![Profile Viewer Counter](https://komarev.com/ghpvc/?username=alexsnow348&color=brightgreen)
 
 ---
-<a href="https://github.com/alexsnow348/alexsnow348/actions"><img src="https://github.com/alexsnow348/alexsnow348/workflows/Build_README/badge.svg?branch=main" align="right" alt="Build README"></a>
+<a href="https://github.com/alexsnow348/alexsnow348/actions"><img src="https://github.com/alexsnow348/alexsnow348/workflows/Build_README/badge.svg" align="right" alt="Build README"></a>
