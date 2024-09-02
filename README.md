@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [📈 ရောင်းဝယ်မှုဆိုင်ရာ ကုန်ကျစရိတ်များမှာ ကုန်သွယ်ရေးအတွက် အတားအဆီးတစ်ခု ဖြစ်သည်။](https://alexsnow348.github.io/2024/09/01/journeytofinancialfreedom/) - September 01, 2024
 * [🚀 ကုန်သွယ်ရေးက စီးပွားရေးတိုတက်မှုကို ဖြစ်စေသည်။](https://alexsnow348.github.io/2024/08/30/journeytofinancialfreedom/) - August 30, 2024
 * [🌳 အဆင့်ဆင့် ဆုံးဖြတ်ခြင်း။](https://alexsnow348.github.io/2024/08/29/journeytofinancialfreedom/) - August 29, 2024
 * [😭 ဘယ်အရာမှ အလကား မရပါ။](https://alexsnow348.github.io/2024/08/28/journeytofinancialfreedom/) - August 28, 2024
 * [🌼 မက်လုံးများ၏ အရေးပါပုံ။](https://alexsnow348.github.io/2024/08/26/journeytofinancialfreedom/) - August 26, 2024
-* [⛈️ ကြာတောမှရွာသောမိုး - ခင်နှင်းယု](https://alexsnow348.github.io/%E1%80%99%E1%80%BE%E1%80%90%E1%80%BA%E1%80%85%E1%80%AF%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8/2024/04/05/rain-khin-yu-wai/) - April 05, 2024
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->88<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->89<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
