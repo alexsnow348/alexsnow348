@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [🍀 လူတို့အတွက် အသုံးဝင်သော ကုန်ပစ္စည်းများ ထုတ်လုပ်ခြင်းနှင့် ဝန်ဆောင်မှုများ ပေးခြင်းသည် အလုပ်အကိုင်ဖန်တီးပေးရုံသက်သက်မဟုတ်ပဲ လူနေမှုအဆင့်အတန်းကို မြင့်မားစေသည့် အကြောင်းရင်း ဖြစ်သည်။](https://alexsnow348.github.io/2024/09/06/journeytofinancialfreedom/) - September 06, 2024
 * [💪 သူတစ်ပါးကို ကူညီးခြင်းသည် ဝင်ငွေရှာဖွေခြင်း ဖြစ်သည်။](https://alexsnow348.github.io/2024/09/05/journeytofinancialfreedom/) - September 05, 2024
 * [🥬 အမြတ်အစွန်းများသည် စီးပွားရေးလုပ်ငန်းများအား ဓနတိုးစေမည့် လုပ်ဆောင်ချက်များဆီသို့ တည့်မတ်ပေးသည်။](https://alexsnow348.github.io/2024/09/04/journeytofinancialfreedom/) - September 04, 2024
 * [⛑️ စျေးနှုန်းများက ရောင်းသူနှင့် ဝယ်သူများ၏ ရွေးချယ်မှုများကို ဟန်ချက်ညီစေသည်။](https://alexsnow348.github.io/2024/09/03/journeytofinancialfreedom/) - September 03, 2024
-* [📈 ရောင်းဝယ်မှုဆိုင်ရာ ကုန်ကျစရိတ်များမှာ ကုန်သွယ်ရေးအတွက် အတားအဆီးတစ်ခု ဖြစ်သည်။](https://alexsnow348.github.io/2024/09/01/journeytofinancialfreedom-copy/) - September 01, 2024
-* [🚀 ကုန်သွယ်ရေးက စီးပွားရေးတိုတက်မှုကို ဖြစ်စေသည်။](https://alexsnow348.github.io/2024/08/30/journeytofinancialfreedom/) - August 30, 2024
+* [📈 ရောင်းဝယ်မှုဆိုင်ရာ ကုန်ကျစရိတ်များမှာ ကုန်သွယ်ရေးအတွက် အတားအဆီးတစ်ခု ဖြစ်သည်။](https://alexsnow348.github.io/2024/09/01/journeytofinancialfreedom/) - September 01, 2024
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->92<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->93<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
