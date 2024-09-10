@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [🫶 စျေးကွက်ပေါက်စျေးများ၏ “မမြင်ရသောလက်များ”သည် ရောင်းသူ၊ ဝယ်သူများအား အများကောင်းကျိုးကို ဖြစ်ပေါ်စေသည့် လုပ်ဆောင်ချက်များဆီသို့ တည့်မတ်ပေးသည်။](https://alexsnow348.github.io/2024/09/09/journeytofinancialfreedom/) - September 09, 2024
 * [🌿 ကုန်သွယ်ရေး၊ ရင်းနှီးမြှုပ်နှံမှု၊ လုပ်နည်းလုပ်ဟန်ကောင်းများနှင့် မှန်ကန်သည့် စီးပွားရေး စည်းမျဥ်း၊ စနစ်များကြောင့် စီးပွားရေး ဖြစ်ထွန်းတိုးတက်လာခြင်းဖြစ်သည်။](https://alexsnow348.github.io/2024/09/07/journeytofinancialfreedom/) - September 07, 2024
 * [🍀 လူတို့အတွက် အသုံးဝင်သော ကုန်ပစ္စည်းများ ထုတ်လုပ်ခြင်းနှင့် ဝန်ဆောင်မှုများ ပေးခြင်းသည် အလုပ်အကိုင်ဖန်တီးပေးရုံသက်သက်မဟုတ်ပဲ လူနေမှုအဆင့်အတန်းကို မြင့်မားစေသည့် အကြောင်းရင်း ဖြစ်သည်။](https://alexsnow348.github.io/2024/09/06/journeytofinancialfreedom/) - September 06, 2024
 * [💪 သူတစ်ပါးကို ကူညီးခြင်းသည် ဝင်ငွေရှာဖွေခြင်း ဖြစ်သည်။](https://alexsnow348.github.io/2024/09/05/journeytofinancialfreedom/) - September 05, 2024
 * [🥬 အမြတ်အစွန်းများသည် စီးပွားရေးလုပ်ငန်းများအား ဓနတိုးစေမည့် လုပ်ဆောင်ချက်များဆီသို့ တည့်မတ်ပေးသည်။](https://alexsnow348.github.io/2024/09/04/journeytofinancialfreedom/) - September 04, 2024
-* [⛑️ စျေးနှုန်းများက ရောင်းသူနှင့် ဝယ်သူများ၏ ရွေးချယ်မှုများကို ဟန်ချက်ညီစေသည်။](https://alexsnow348.github.io/2024/09/03/journeytofinancialfreedom/) - September 03, 2024
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->94<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->95<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
