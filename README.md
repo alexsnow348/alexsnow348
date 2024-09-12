@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [💶 ကိုယ်ပိုင်ငွေကြေးအား လက်တွေ့ကျကျ စီမံခန့်ခွဲခြင်း သော့ချက် ၁၂ ချက်](https://alexsnow348.github.io/2024/09/11/journeytofinancialfreedom/) - September 11, 2024
 * [🌼 ယေဘုယျအားဖြင့် လုပ်ရပ်တစ်ခုကြောင့် အချိန်ကြာမှ ဖြစ်ပေါ်လာမည့် အကျိုးဆက်များ သို့မဟုတ် ဆင့်ပွားသက်ရောက်မှုများကို လျစ်လျူရှုတတ်ကြသည်။](https://alexsnow348.github.io/2024/09/10/journeytofinancialfreedom/) - September 10, 2024
 * [🫶 စျေးကွက်ပေါက်စျေးများ၏ “မမြင်ရသောလက်များ”သည် ရောင်းသူ၊ ဝယ်သူများအား အများကောင်းကျိုးကို ဖြစ်ပေါ်စေသည့် လုပ်ဆောင်ချက်များဆီသို့ တည့်မတ်ပေးသည်။](https://alexsnow348.github.io/2024/09/09/journeytofinancialfreedom/) - September 09, 2024
 * [🌿 ကုန်သွယ်ရေး၊ ရင်းနှီးမြှုပ်နှံမှု၊ လုပ်နည်းလုပ်ဟန်ကောင်းများနှင့် မှန်ကန်သည့် စီးပွားရေး စည်းမျဥ်း၊ စနစ်များကြောင့် စီးပွားရေး ဖြစ်ထွန်းတိုးတက်လာခြင်းဖြစ်သည်။](https://alexsnow348.github.io/2024/09/07/journeytofinancialfreedom/) - September 07, 2024
 * [🍀 လူတို့အတွက် အသုံးဝင်သော ကုန်ပစ္စည်းများ ထုတ်လုပ်ခြင်းနှင့် ဝန်ဆောင်မှုများ ပေးခြင်းသည် အလုပ်အကိုင်ဖန်တီးပေးရုံသက်သက်မဟုတ်ပဲ လူနေမှုအဆင့်အတန်းကို မြင့်မားစေသည့် အကြောင်းရင်း ဖြစ်သည်။](https://alexsnow348.github.io/2024/09/06/journeytofinancialfreedom/) - September 06, 2024
-* [💪 သူတစ်ပါးကို ကူညီးခြင်းသည် ဝင်ငွေရှာဖွေခြင်း ဖြစ်သည်။](https://alexsnow348.github.io/2024/09/05/journeytofinancialfreedom/) - September 05, 2024
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->96<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->97<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
