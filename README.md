@@ -2,7 +2,7 @@
 <br>
 
 - 🔭 **Life-long learner** and deeply involved in [**Alex Snow School**](https://www.alexsnowschool.org/), a youths' run school for empowering the next generation towards **Myanmar's economic and technological advancement**. 
-- 🌱 I’m currently exploring the fields of **Economics, Finance, Blockchain, Data Engineering, MLOps, and AI** for becoming a **_data-driven economist_** and  **_challenging myself  to find solutions for global financial inclusion issues, especially for minorities_** such as immigrants and refugees.
+
 
 ### 📝 Recent Writing
 
