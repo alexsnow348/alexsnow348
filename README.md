@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [ငယ်ဘဝ](https://alexsnow348.github.io/2025/10/02/life-at-young-age/) - October 02, 2025
 * [💪🪴 ကာလရှည် ရည်မှန်းချက်များအတွက် စတော့ရှယ်ယာများတွင် ရင်းနှီးမြှုပ်နှံပါ၊ ငွေကြေးလိုအပ်ချက်ရှိလာသည့်အခါ ချေးငွေစာချုပ် အချိုးအစားတိုးမြှင့်ပါ။](https://alexsnow348.github.io/2024/10/14/journeytofinancialfreedom/) - October 14, 2024
 * [🧳 ညွှန်းကိန်းဖြင့်ပြသော  စုပေါင်းရင်နှီးမြှုပ်နှံမှု ရန်ပုံငွေများသည် စွန့်စားမှုများများစားစား ယူစရာမလိုပဲ ကျွမ်းကျင်သူများထက် ပိုကောင်းအောင် ရွေးချယ်ဝယ်ယူနိုင်သည်။](https://alexsnow348.github.io/2024/09/20/journeytofinancialfreedom/) - September 20, 2024
 * [🐣 ကြက်ဥအားလုံးကို ခြင်းတစ်ခြင်းထဲ အကုန်မထည့်ပါနှင့်၊ ဖြန့်ကျက်ခွဲထည့်ပါ။](https://alexsnow348.github.io/2024/09/19/journeytofinancialfreedom/) - September 19, 2024
 * [🏦 အတိုးပေါ်ဆင့်အတိုး (ဝါ) နှစ်ထပ်တိုး  (compound interest)  ရသည့်နည်းကို ကောင်းကောင်းကြီး အသုံးပြုပါ။](https://alexsnow348.github.io/2024/09/18/journeytofinancialfreedom/) - September 18, 2024
-* [⛑️ အရေးပေါ် ကိစ္စရပ်များအတွက် စုဆောင်းမှု လစဥ် ပုံမှန်ပြုလုပ်ပါ။](https://alexsnow348.github.io/2024/09/17/journeytofinancialfreedom/) - September 17, 2024
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->107<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->108<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
