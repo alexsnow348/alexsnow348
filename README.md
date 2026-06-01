@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [🐛 ငယ်ဘဝ](https://alexsnow348.github.io/%E1%80%95%E1%80%B1%E1%80%AB%E1%80%BA%E1%80%9C%E1%80%AC%E1%80%9E%E1%80%99%E1%80%BB%E1%80%BE%20%E1%80%A1%E1%80%90%E1%80%BD%E1%80%B1%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8/2025/10/02/life-at-young-age/) - October 02, 2025
-* [💪🪴 ကာလရှည် ရည်မှန်းချက်များအတွက် စတော့ရှယ်ယာများတွင် ရင်းနှီးမြှုပ်နှံပါ၊ ငွေကြေးလိုအပ်ချက်ရှိလာသည့်အခါ ချေးငွေစာချုပ် အချိုးအစားတိုးမြှင့်ပါ။](https://alexsnow348.github.io/2024/10/14/journeytofinancialfreedom/) - October 14, 2024
-* [🧳 ညွှန်းကိန်းဖြင့်ပြသော  စုပေါင်းရင်နှီးမြှုပ်နှံမှု ရန်ပုံငွေများသည် စွန့်စားမှုများများစားစား ယူစရာမလိုပဲ ကျွမ်းကျင်သူများထက် ပိုကောင်းအောင် ရွေးချယ်ဝယ်ယူနိုင်သည်။](https://alexsnow348.github.io/2024/09/20/journeytofinancialfreedom/) - September 20, 2024
-* [🐣 ကြက်ဥအားလုံးကို ခြင်းတစ်ခြင်းထဲ အကုန်မထည့်ပါနှင့်၊ ဖြန့်ကျက်ခွဲထည့်ပါ။](https://alexsnow348.github.io/2024/09/19/journeytofinancialfreedom/) - September 19, 2024
-* [🏦 အတိုးပေါ်ဆင့်အတိုး (ဝါ) နှစ်ထပ်တိုး  (compound interest)  ရသည့်နည်းကို ကောင်းကောင်းကြီး အသုံးပြုပါ။](https://alexsnow348.github.io/2024/09/18/journeytofinancialfreedom/) - September 18, 2024
+* [Jaune Quick-to-See Smith shatters estimates at Christie's](https://diekulturki.de/articles/2026-05-30-jaune-quick-to-see-smith-(b.-1-gifts-of-red-cloth/) - May 30, 2026
+* [Chana Orloff's "Maternité enceinte" shatters estimates by 540%](https://diekulturki.de/articles/2026-05-30-chana-orloff-maternité-enceinte/) - May 30, 2026
+* [Chagall's nocturne shatters estimates in surprise surge](https://diekulturki.de/articles/2026-05-29-marc-chagall-concert-nocturne/) - May 29, 2026
+* [Hannah Höch's collage shatters estimates in surprise sale](https://diekulturki.de/articles/2026-05-29-hannah-höch-bürgerliches-brautpaar-(streit)/) - May 29, 2026
+* [Blanche Hoschedé-Monet's Seine painting shatters estimates](https://diekulturki.de/articles/2026-05-29-blanche-hoschedé-monet/) - May 29, 2026
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->108<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->134<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
