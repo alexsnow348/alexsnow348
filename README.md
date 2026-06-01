@@ -18,7 +18,6 @@ View the archives (<!-- writing_count starts -->134<!-- writing_count ends --> p
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
-[![GitHub alexsnow348](https://img.shields.io/github/followers/alexsnow348?label=follow&style=social)](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)
 ![Profile Viewer Counter](https://komarev.com/ghpvc/?username=alexsnow348&color=brightgreen)
 
 ---
