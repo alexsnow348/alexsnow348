@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Shi Hu's forest horse gallops past expectations at Sotheby's](https://alexsnow348.github.io/articles/2026-06-01-shi-hu-shi-hu-石虎-|-horse-in-the-forest-森馬/) - June 01, 2026
+* [Forain's racetrack scene gallops past estimates at Christie's](https://alexsnow348.github.io/articles/2026-06-01-jean-louis-forain-champ-de-courses/) - June 01, 2026
 * [Feng Xiaomin's abstract painting shatters estimates at Sotheby's](https://alexsnow348.github.io/articles/2026-06-01-feng-xiaomin-feng-xiaomin-馮驍鳴-|-composition-n°22.07.1/) - June 01, 2026
 * [Darrel Austin's "Night Ride" shatters expectations at Christie's](https://alexsnow348.github.io/articles/2026-06-01-darrel-austin-night-ride/) - June 01, 2026
 * [Brâncusi's dreaming muse shatters expectations at Christie's](https://alexsnow348.github.io/articles/2026-06-01-constantin-brâncusi-la-muse-endormie,-c.-1912/) - June 01, 2026
-* [Leonora Carrington's market moment arrives at Sotheby's](https://alexsnow348.github.io/articles/2026-05-31-leonora-carrington-sin-título/) - May 31, 2026
-* [Jaune Quick-to-See Smith shatters estimates at Christie's](https://alexsnow348.github.io/articles/2026-05-30-jaune-quick-to-see-smith-(b.-1-gifts-of-red-cloth/) - May 30, 2026
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->138<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->140<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
