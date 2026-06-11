@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Ernie Barnes' "The Winning Shot" smashes estimates at Christie's](https://alexsnow348.github.io/articles/2026-06-07-ernie-barnes-(1938---2009)-the-winning-shot/) - June 07, 2026
-* [Chagall's modest sketch shatters estimates by 2,700%](https://alexsnow348.github.io/articles/2026-06-06-marc-chagall-projet-pour-des-médaillons-autour-de-l'o/) - June 06, 2026
-* [Kusama's pumpkin smashes estimates at Sotheby's New York](https://alexsnow348.github.io/articles/2026-06-05-yayoi-kusama-pumpkin--南瓜/) - June 05, 2026
-* [Kusama's pumpkin shatters estimates at Sotheby's](https://alexsnow348.github.io/articles/2026-06-05-yayoi-kusama-pumpkin-(aap)-南瓜（aap）/) - June 05, 2026
-* [Lisa Brice shatters estimates with 420% auction surge](https://alexsnow348.github.io/articles/2026-06-05-lisa-brice-(b.-1968)-untitled/) - June 05, 2026
+* [Hockney's California dream still commands premium prices](https://alexsnow348.github.io/articles/2026-06-10-david-hockney-terrace-hollywood-hills-house-with-banan/) - June 10, 2026
+* [Hockney's hotel scene doubles estimates at Sotheby's](https://alexsnow348.github.io/articles/2026-06-10-david-hockney-hotel-acatlán:-second-day-(from-moving-f/) - June 10, 2026
+* [Hockney's Yorkshire spring doubles estimate at Christie's](https://alexsnow348.github.io/articles/2026-06-10-david-hockney-(b.-1937)-the-arrival-of-spring-in-woldgate,-east-/) - June 10, 2026
+* [Hockney's pool paintings still command California dreaming premiums](https://alexsnow348.github.io/articles/2026-06-10-david-hockney-(b.-1937)-peter,-swimming-pool,-encino,-california/) - June 10, 2026
+* [Pistoletto's mirror work shatters estimates at Christie's](https://alexsnow348.github.io/articles/2026-06-09-michelangelo-pistoletto-(b.-19-two-less-one-black/) - June 09, 2026
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->150<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->157<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
