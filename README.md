@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Damien Hirst's "Hydrogen Peroxide" defies estimates at Christie's](https://alexsnow348.github.io/articles/2026-06-11-damien-hirst-(b.-1965)-hydrogen-peroxide/) - June 11, 2026
-* [Hockney still life shatters estimate at Sotheby's](https://alexsnow348.github.io/articles/2026-06-10-david-hockney-untitled-(still-life-with-flowers-and-bo/) - June 10, 2026
-* [Hockney's California dream still commands premium prices](https://alexsnow348.github.io/articles/2026-06-10-david-hockney-terrace-hollywood-hills-house-with-banan/) - June 10, 2026
-* [Hockney's hotel scene doubles estimates at Sotheby's](https://alexsnow348.github.io/articles/2026-06-10-david-hockney-hotel-acatlán:-second-day-(from-moving-f/) - June 10, 2026
-* [Hockney's Yorkshire spring doubles estimate at Christie's](https://alexsnow348.github.io/articles/2026-06-10-david-hockney-(b.-1937)-the-arrival-of-spring-in-woldgate,-east-/) - June 10, 2026
+* [George Condo's market momentum: untitled work smashes estimate](https://alexsnow348.github.io/articles/2026-06-12-george-condo-(b.-1957)-untitled/) - June 12, 2026
+* [George Condo's "Study" shatters estimates at Christie's](https://alexsnow348.github.io/articles/2026-06-12-george-condo-(b.-1957)-study-for-the-conspiracy/) - June 12, 2026
+* [George Condo's "Seated Nude" shatters expectations at Christie's](https://alexsnow348.github.io/articles/2026-06-12-george-condo-(b.-1957)-seated-nude/) - June 12, 2026
+* [Damien Hirst's "A Summer's Day" nearly doubles estimates at Christie's](https://alexsnow348.github.io/articles/2026-06-12-damien-hirst-(b.-1965)-a-summers-day/) - June 12, 2026
+* [Damien Hirst's Nalorphine doubles estimate at Christie's](https://alexsnow348.github.io/articles/2026-06-11-damien-hirst-(b.-1965)-nalorphine/) - June 11, 2026
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->160<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->165<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
