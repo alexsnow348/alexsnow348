@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Chagall's romantic vision doubles estimates at Christie's](https://alexsnow348.github.io/articles/2026-06-18-marc-chagall-couple-aux-trois-bouquets/) - June 18, 2026
+* [Chagall's modest sketch shatters estimates by 1,580%](https://alexsnow348.github.io/articles/2026-06-17-marc-chagall-esquisse-pour-concert-bleu-ou-l'ange-aux/) - June 17, 2026
 * [Chagall's Swiss lakeside study shatters modest estimate](https://alexsnow348.github.io/articles/2026-06-17-marc-chagall-au-bord-du-lac-de-constance,-mammern/) - June 17, 2026
 * [Leonora Carrington breaks her auction record at Sotheby's](https://alexsnow348.github.io/articles/2026-06-16-leonora-carrington-les-distractions-de-dagobert/) - June 16, 2026
 * [Leonora Carrington's Tempest studies surge past estimates](https://alexsnow348.github.io/articles/2026-06-16-leonora-carrington-character-studies-for-the-tempest:-a-gro/) - June 16, 2026
-* [Magritte's mystery work shatters expectations at Christie's](https://alexsnow348.github.io/articles/2026-06-15-rené-magritte-sans-titre/) - June 15, 2026
-* [Leonora Carrington surges past estimates at Christie's](https://alexsnow348.github.io/articles/2026-06-15-leonora-carrington-the-journey-of-ay-ching-gão/) - June 15, 2026
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->174<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->176<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
