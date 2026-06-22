@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Richter's abstract canvas shatters estimates at Christie's](https://alexsnow348.github.io/articles/2026-06-21-gerhard-richter-(b.-1932)-untitled-(7.2.89)/) - June 21, 2026
+* [Yoshitomo Nara's "Ukulele Girl" smashes estimates by 372 percent](https://alexsnow348.github.io/articles/2026-06-20-yoshitomo-nara-(b.-1959)-ukulele-girl/) - June 20, 2026
 * [Chagall's biblical vision tripled expectations at Christie's](https://alexsnow348.github.io/articles/2026-06-20-marc-chagall-scène-biblique-au-croissant-de-lune/) - June 20, 2026
-* [Chagall's nocturnal reverie outperforms expectations by 128%](https://alexsnow348.github.io/articles/2026-06-19-marc-chagall-scène-de-nuit-ou-beuverie-nocturne/) - June 19, 2026
-* [Chagall's "Fin de journée" defies expectations at Christie's](https://alexsnow348.github.io/articles/2026-06-19-marc-chagall-fin-de-journée/) - June 19, 2026
-* [Chagall's circus performer nearly doubles estimate at Christie's](https://alexsnow348.github.io/articles/2026-06-18-marc-chagall-la-danseuse-au-coq-ou-scène-de-cirque/) - June 18, 2026
-* [Chagall's romantic vision doubles estimates at Christie's](https://alexsnow348.github.io/articles/2026-06-18-marc-chagall-couple-aux-trois-bouquets/) - June 18, 2026
+* [Giacometti's "Figure" shatters estimates with 535% surge](https://alexsnow348.github.io/articles/2026-06-20-alberto-giacometti-figure/) - June 20, 2026
+* [After Picasso's lunch breaks estimate records](https://alexsnow348.github.io/articles/2026-06-20-after-a-design-by-pablo-picass-déjeuner-sur-l'herbe/) - June 20, 2026
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->180<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->184<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
