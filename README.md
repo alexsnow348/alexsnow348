@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Boudin's modest coastal scene commands full estimate at Christie's](https://alexsnow348.github.io/articles/2026-06-26-eugene-boudin-oisème,-route-de-village/) - June 26, 2026
 * [Dufy's fashion illustration commands triple estimate at Christie's](https://alexsnow348.github.io/articles/2026-06-25-raoul-dufy-robe-pour-poiret-(femme-de-face)/) - June 25, 2026
 * [Lichtenstein's haystacks fetch double estimate at Sotheby's](https://alexsnow348.github.io/articles/2026-06-24-roy-lichtenstein-haystacks/) - June 24, 2026
 * [Jules Pascin's café scene quadruples expectations at Christie's](https://alexsnow348.github.io/articles/2026-06-23-jules-pascin-le-café/) - June 23, 2026
 * [Celebrity signatures drive luxury goods beyond estimates](https://alexsnow348.github.io/articles/2026-06-22-louis-vuitton-monogram-soccer--signed-by-hoyeon/) - June 22, 2026
-* [Surrealist prints shatter estimates in unexpected NY sale](https://alexsnow348.github.io/articles/2026-06-22-joan-miró-|-max-ernst-two-prints-related-to-le-surréalisme-en-/) - June 22, 2026
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->190<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->191<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
