@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Henry Moore's abstractions command surprise premium at Christie's](https://alexsnow348.github.io/articles/2026-07-04-henry-moore-standing-figure:-shell-skirt/) - July 04, 2026
 * [Henry Moore's "Woman and Dog" triumphs at Christie's](https://alexsnow348.github.io/articles/2026-07-03-henry-moore-woman-and-dog/) - July 03, 2026
 * [Henry Moore's maquette smashes estimates by 278 percent](https://alexsnow348.github.io/articles/2026-07-03-henry-moore-three-piece-reclining-figure:-maquette-n/) - July 03, 2026
+* [When estimates can't keep up with demand](https://alexsnow348.github.io/articles/2026-07-03-from-2026-06-05-beat-the-estimate/) - July 03, 2026
 * [Bernhardt's sphinx steals the show at Sotheby's](https://alexsnow348.github.io/articles/2026-07-03-beat-the-estimate/) - July 03, 2026
-* [Henry Moore's bronzes command premium as demand strengthens](https://alexsnow348.github.io/articles/2026-07-02-henry-moore-seated-figure:-armless/) - July 02, 2026
-* [Henry Moore's maternal vision commands 70% premium at Christie's](https://alexsnow348.github.io/articles/2026-07-01-henry-moore-reclining-mother-and-child-iii/) - July 01, 2026
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->200<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->202<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
