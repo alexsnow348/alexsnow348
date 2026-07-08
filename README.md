@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Tillmans' ephemeral works command serious auction premium](https://alexsnow348.github.io/articles/2026-07-07-wolfgang-tillmans-(b.-1968)-paper-drop-oranienplatz,-c/) - July 07, 2026
+* [Cranach follower leads a week of triple-digit surprises](https://alexsnow348.github.io/articles/2026-07-07-beat-the-estimate/) - July 07, 2026
 * [Keith Haring collaboration outperforms estimate at Christie's](https://alexsnow348.github.io/articles/2026-07-06-keith-haring-and-l.a.-ii-(1958-untitled/) - July 06, 2026
 * [Old masters surge past estimates in Sotheby's sweep](https://alexsnow348.github.io/articles/2026-07-06-beat-the-estimate/) - July 06, 2026
 * [Tillmans' "Lighter 67" soars past estimates at Christie's](https://alexsnow348.github.io/articles/2026-07-05-wolfgang-tillmans-(b.-1968)-lighter-67/) - July 05, 2026
-* [Albers and Richter lead a five-hundred-percent surge](https://alexsnow348.github.io/articles/2026-07-05-beat-the-estimate/) - July 05, 2026
-* [Wolfgang Tillmans' paper drop commands 60% premium at Christie's](https://alexsnow348.github.io/articles/2026-07-04-wolfgang-tillmans-(b.-1968)-paper-drop-(high)/) - July 04, 2026
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->211<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->213<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
