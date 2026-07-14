@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Maximilien Luce's Pissarro portrait nearly doubles expectations](https://alexsnow348.github.io/articles/2026-07-13-maximilien-luce-portrait-de-camille-pissarro/) - July 13, 2026
+* [Capriccio takes flight as old masters soar past estimates](https://alexsnow348.github.io/articles/2026-07-13-beat-the-estimate/) - July 13, 2026
 * [Maximilien Luce's Cross portrait smashes estimates by 411%](https://alexsnow348.github.io/articles/2026-07-12-maximilien-luce-portrait-de-cross-(deux-études-de-tête)/) - July 12, 2026
 * [Conan Doyle's detective outsmarts the room](https://alexsnow348.github.io/articles/2026-07-12-beat-the-estimate/) - July 12, 2026
 * [Léger's patriotic painting shatters estimates at Sotheby's](https://alexsnow348.github.io/articles/2026-07-11-fernand-léger-le-14-juillet-1918-à-vernon/) - July 11, 2026
-* [Surrealist drawings and rare books defy the odds](https://alexsnow348.github.io/articles/2026-07-11-beat-the-estimate/) - July 11, 2026
-* [Léger's cyclistes sketch pedals past expectations at Sotheby's](https://alexsnow348.github.io/articles/2026-07-10-fernand-léger-esquisse-pour-‘les-belles-cyclistes’,-2ᵉ/) - July 10, 2026
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->225<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->227<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
