@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Maximilien Luce's seascape smashes estimates at Christie's](https://alexsnow348.github.io/articles/2026-07-16-maximilien-luce-rochers-dans-la-mer/) - July 16, 2026
+* [Sotheby's abstract painters obliterate estimates across the board](https://alexsnow348.github.io/articles/2026-07-16-beat-the-estimate/) - July 16, 2026
 * [Maximilien Luce's divisionist dream commands surprise premium](https://alexsnow348.github.io/articles/2026-07-15-maximilien-luce-pins-aux-canebiers/) - July 15, 2026
 * [Feininger's yellow sea lifts all boats this week](https://alexsnow348.github.io/articles/2026-07-15-beat-the-estimate/) - July 15, 2026
 * [Maximilien Luce's river scene nearly doubles pre-sale expectations](https://alexsnow348.github.io/articles/2026-07-14-maximilien-luce-rolleboise,-barques-et-remorqueur-sur-le/) - July 14, 2026
-* [Vieira da Silva and the 150% club dominate](https://alexsnow348.github.io/articles/2026-07-14-beat-the-estimate/) - July 14, 2026
-* [Maximilien Luce's Pissarro portrait nearly doubles expectations](https://alexsnow348.github.io/articles/2026-07-13-maximilien-luce-portrait-de-camille-pissarro/) - July 13, 2026
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->231<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->233<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
