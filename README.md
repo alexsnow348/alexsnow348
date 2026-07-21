@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Tracey Emin's confessional art commands 620% premium](https://alexsnow348.github.io/articles/2026-07-20-tracey-emin-(b.-1963)-this-is-another-place/) - July 20, 2026
+* [Tracey Emin's promise delivers triple-digit returns at Christie's](https://alexsnow348.github.io/articles/2026-07-20-tracey-emin-(b.-1963)-i-promise-to-love-you/) - July 20, 2026
 * [Lyonel Feininger's quiet geometries command unexpected auction premium](https://alexsnow348.github.io/articles/2026-07-19-lyonel-feininger-village/) - July 19, 2026
 * [When shipwrecks and still lifes outrun the odds](https://alexsnow348.github.io/articles/2026-07-19-beat-the-estimate/) - July 19, 2026
 * [Fantin-Latour's still life doubles estimates at Christie's](https://alexsnow348.github.io/articles/2026-07-18-henri-fantin-latour-pêches-et-raisins/) - July 18, 2026
-* [Frankenthaler leads a color field surge at Sotheby's](https://alexsnow348.github.io/articles/2026-07-18-beat-the-estimate/) - July 18, 2026
-* [Dalí's modest work shatters expectations at Christie's](https://alexsnow348.github.io/articles/2026-07-17-salvador-dalí-femme-humant-une-fleur-d'arum-symbole-de/) - July 17, 2026
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->240<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->242<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
