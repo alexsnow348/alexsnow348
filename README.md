@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Matisse's waterside scene shatters estimates at Christie's](https://alexsnow348.github.io/articles/2026-07-24-henri-matisse-arbres-au-bord-de-l'eau,-bohain/) - July 24, 2026
 * [Matisse's intimate domestic scene doubles estimate at Christie's](https://alexsnow348.github.io/articles/2026-07-23-henri-matisse-fille-assise-à-table/) - July 23, 2026
 * [Tracey Emin's "Everything for Love" crushes estimates at Christie's](https://alexsnow348.github.io/articles/2026-07-22-tracey-emin-(b.-1963)-everything-for-love/) - July 22, 2026
 * [Pincemin's untitled work doubles estimates at Sotheby's](https://alexsnow348.github.io/articles/2026-07-22-jean-pierre-pincemin-sans-titre/) - July 22, 2026
 * [Matisse's seated figure shatters estimates at Christie's](https://alexsnow348.github.io/articles/2026-07-22-henri-matisse-homme-assis/) - July 22, 2026
-* [Matisse's yellow dress commands triple estimate at Christie's](https://alexsnow348.github.io/articles/2026-07-22-henri-matisse-henriette,-robe-jaune/) - July 22, 2026
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->248<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->249<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
