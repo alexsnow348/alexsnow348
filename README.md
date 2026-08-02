@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Klimt leads a masterclass in beating expectations](https://alexsnow348.github.io/articles/2026-07-31-beat-the-estimate/) - July 31, 2026
 * [Matisse and Léger lead a masterclass in market defiance](https://alexsnow348.github.io/articles/2026-07-30-beat-the-estimate/) - July 30, 2026
 * [Old masters surge past estimates in heated week](https://alexsnow348.github.io/articles/2026-07-29-beat-the-estimate/) - July 29, 2026
 * [Matisse's sensual nudes find renewed collector appetite](https://alexsnow348.github.io/articles/2026-07-26-henri-matisse-nu-allongé/) - July 26, 2026
 * [Matisse's modest drawing commands 66% premium at Christie's](https://alexsnow348.github.io/articles/2026-07-25-henri-matisse-tête-de-jeune-fille/) - July 25, 2026
-* [Matisse's waterside scene shatters estimates at Christie's](https://alexsnow348.github.io/articles/2026-07-24-henri-matisse-arbres-au-bord-de-l'eau,-bohain/) - July 24, 2026
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->253<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->254<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
