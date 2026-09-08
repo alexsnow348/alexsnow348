@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Modernists surge past estimates in Sotheby's sweep](https://alexsnow348.github.io/articles/2026-08-04-beat-the-estimate/) - August 04, 2026
-* [Portrait season shatters estimates across the board](https://alexsnow348.github.io/articles/2026-08-03-beat-the-estimate/) - August 03, 2026
-* [Turner and Gainsborough lead old masters' unexpected surge](https://alexsnow348.github.io/articles/2026-08-02-beat-the-estimate/) - August 02, 2026
-* [Delacroix leads classical surge past estimates](https://alexsnow348.github.io/articles/2026-08-01-beat-the-estimate/) - August 01, 2026
-* [Klimt leads a masterclass in beating expectations](https://alexsnow348.github.io/articles/2026-07-31-beat-the-estimate/) - July 31, 2026
+* [Starting With AI When You Have No Tech Team: A Guide for Small German Museums](https://alexsnow348.github.io/art-museum/2026/05/08/small-museum-ai-no-tech-team/) - May 08, 2026
+* [RAG Systems for Provenance Research: Making Restitution Archives Searchable](https://alexsnow348.github.io/art-museum/2026/05/08/rag-provenance-research-german-museums/) - May 08, 2026
+* [Multilingual Visitor Chatbots for German Museums: What Actually Works](https://alexsnow348.github.io/art-museum/2026/05/08/multilingual-visitor-chatbots-german-museums/) - May 08, 2026
+* [How GenAI Is Transforming Museum Collection Cataloguing](https://alexsnow348.github.io/art-museum/2026/05/08/genai-in-museum-collection-cataloguing/) - May 08, 2026
+* [🐛 ငယ်ဘဝ](https://alexsnow348.github.io/%E1%80%95%E1%80%B1%E1%80%AB%E1%80%BA%E1%80%9C%E1%80%AC%E1%80%9E%E1%80%99%E1%80%BB%E1%80%BE%20%E1%80%A1%E1%80%90%E1%80%BD%E1%80%B1%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8/2025/10/02/life-at-young-age/) - October 02, 2025
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->258<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->112<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
