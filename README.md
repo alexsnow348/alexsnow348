@@ -7,14 +7,14 @@
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [RAG-Systeme für die Provenienzforschung: Restitutionsarchive durchsuchbar machen](https://alexsnow348.github.io/de/artikel/rag-provenienzforschung-deutsche-museen/) - September 10, 2026
+* [Mehrsprachige Besucher-Chatbots für deutsche Museen: Was tatsächlich funktioniert](https://alexsnow348.github.io/de/artikel/mehrsprachige-besucher-chatbots-deutsche-museen/) - September 10, 2026
+* [KI-Einstieg ohne Tech-Team: Ein Leitfaden für kleine deutsche Museen](https://alexsnow348.github.io/de/artikel/ki-start-kleines-museum-ohne-tech-team/) - September 10, 2026
+* [Wie GenAI die Katalogisierung von Museumssammlungen verändert](https://alexsnow348.github.io/de/artikel/ki-museumssammlung-katalogisierung/) - September 10, 2026
 * [Starting With AI When You Have No Tech Team: A Guide for Small German Museums](https://alexsnow348.github.io/art-museum/2026/05/08/small-museum-ai-no-tech-team/) - May 08, 2026
-* [RAG Systems for Provenance Research: Making Restitution Archives Searchable](https://alexsnow348.github.io/art-museum/2026/05/08/rag-provenance-research-german-museums/) - May 08, 2026
-* [Multilingual Visitor Chatbots for German Museums: What Actually Works](https://alexsnow348.github.io/art-museum/2026/05/08/multilingual-visitor-chatbots-german-museums/) - May 08, 2026
-* [How GenAI Is Transforming Museum Collection Cataloguing](https://alexsnow348.github.io/art-museum/2026/05/08/genai-in-museum-collection-cataloguing/) - May 08, 2026
-* [🐛 ငယ်ဘဝ](https://alexsnow348.github.io/%E1%80%95%E1%80%B1%E1%80%AB%E1%80%BA%E1%80%9C%E1%80%AC%E1%80%9E%E1%80%99%E1%80%BB%E1%80%BE%20%E1%80%A1%E1%80%90%E1%80%BD%E1%80%B1%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8/2025/10/02/life-at-young-age/) - October 02, 2025
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->112<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
+View the archives (<!-- writing_count starts -->116<!-- writing_count ends --> posts) @ [alexsnow348.github.io](https://alexsnow348.github.io/blog/).
 
 
 [![Linkedin: Wut Hmone Hnin Hlaing @ Alex Snow](https://img.shields.io/badge/-AlexSnow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuthmonehninhlaing/)](https://www.linkedin.com/in/wuthmonehninhlaing/)
